@@ -1,5 +1,6 @@
-# MAC Address changer script in Python using command line args.
+# MAC Address changer
 
+## Python Script to change MAC address using command line
 ## Usage: <br>
 
   mac_changer.py **-i** [interface] **-r** : *to generate random mac addresses in every 60 secs* <br>
